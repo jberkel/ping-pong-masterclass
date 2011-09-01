@@ -161,9 +161,20 @@ c.1954
 
 !SLIDE
 
-# More recent
+# More recently
 
 ![](masterclass/alser.jpg)
+ +
+![](masterclass/rubber1.jpg)
+
+!SLIDE
+![](masterclass/rubber2.jpg)
+!SLIDE
+![](masterclass/rubber3.jpg)
+!SLIDE
+![](masterclass/rubber4.jpg)
+!SLIDE
+![](masterclass/rubber5.jpg)
 
 !SLIDE
 
