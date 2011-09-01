@@ -65,20 +65,21 @@ John Jaques, London 1891
 
 # 1900: rubber / cork => celluloid
 
-
 ![](masterclass/old-ball.jpg)
 ![](masterclass/cellu.jpg)
 
+the perfect bounce
+
 !SLIDE
 
-# "perfect bounce"
+# the sound of ping pong
 
 <object height="81" width="100%"> <param name="movie"
 value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F22338118%3Fsecret_token%3Ds-8D5Sk&secret_url=true"></param>
 <param name="allowscriptaccess" value="always"></param> <embed
 allowscriptaccess="always" height="81"
 src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F22338118%3Fsecret_token%3Ds-8D5Sk&secret_url=true"
-type="application/x-shockwave-flash" width="100%"></embed> 
+type="application/x-shockwave-flash" width="100%"></embed>
 </object>
 
 !SLIDE
@@ -107,7 +108,7 @@ src="http://www.youtube.com/embed/MTgSRY0zEww" frameborder="0">
 
 !SLIDE
 
-# 1902: First rules
+# 1902: The first rules
 
 ![](masterclass/rules.jpg)
 ![](masterclass/rules_2.jpg)
@@ -186,23 +187,45 @@ c.1954
 !SLIDE
 
 # "penhold"
-
 ![](masterclass/penholder.jpg)
 
 !SLIDE
 
-# important: serving
+# strokes
+
+## loop, flip, smash
+## chop, push, block, lob
+
+!SLIDE
+
+# important: a good serve
 
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/kmQDjFfxrGM#t=1m02s" frameborder="0">
 </iframe>
 
 !SLIDE
 
-# the loop
+# topspin
+
+![](masterclass/topspin.png)
+
+!SLIDE
+
+# backspin
+![](masterclass/backspin.png)
+
+
+!SLIDE
+
+# the loop drive
 
 <iframe class="youtube-player" type="text/html" width="640" height="385"
 src="http://www.youtube.com/embed/nkWMBJC2Qec" frameborder="0">
 </iframe>
+
+!SLIDE
+
+# ping pong elsewhere
 
 !SLIDE
 
@@ -270,6 +293,10 @@ src="https://docs.google.com/a/soundcloud.com/document/pub?id=1XRBs2R8Jr1bAzE1gO
 
 !SLIDE
 
+# enjoy the game!
+
+!SLIDE
+
 ### ping pong - a sports movie about old age
 
 <iframe src="http://player.vimeo.com/video/14832158?title=0&amp;byline=0&amp;portrait=0"
@@ -281,6 +308,3 @@ width="400" height="300" frameborder="0">
 <iframe class="youtube-player" type="text/html" width="640" height="385"
 src="http://www.youtube.com/embed/M2vljkseCNg" frameborder="0">
 </iframe>
-
-
-
