@@ -1,8 +1,9 @@
 !SLIDE
 
-# Ping Pong?
+# Ping Pong!
 
 ![](masterclass/cover.jpg)
+![](masterclass/animation.gif)
 
 !SLIDE
 
@@ -16,7 +17,7 @@
 
 ![](masterclass/foster1890.jpg)
 
-David Foster, England 1890
+David Foster, England 1890: Cricket, Football, Tennis
 
 !SLIDE
 
@@ -56,7 +57,7 @@ John Jaques, London 1891
 
 !SLIDE
 
-# Ping-Pong!
+# Ping-Pong! ™
 
 ![](masterclass/ping_pong_parker_2.jpg)
 
@@ -65,6 +66,9 @@ John Jaques, London 1891
 # 1900: rubber / cork => celluloid
 
 ## "perfect bounce"
+
+![](masterclass/old-ball.png)
+![](masterclass/ping-pong-ball.jpg)
 
 !SLIDE
 
@@ -87,7 +91,7 @@ src="http://www.youtube.com/embed/5WFGuDxTSL8" frameborder="0">
 ### Object One - Ping Pong
 
 <iframe class="youtube-player" type="text/html" width="640" height="385"
-src="http://www.youtube.com/embed/MTgSRY0zEw" frameborder="0">
+src="http://www.youtube.com/embed/MTgSRY0zEww" frameborder="0">
 </iframe>
 
 !SLIDE
@@ -148,7 +152,8 @@ src="http://www.youtube.com/embed/MTgSRY0zEw" frameborder="0">
 
 # important: service
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/kmQDjFfxrGM#t=1m02s" frameborder="0"/>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/kmQDjFfxrGM#t=1m02s" frameborder="0">
+</iframe>
 
 !SLIDE
 
@@ -174,25 +179,19 @@ src="http://www.youtube.com/embed/LPkUvfL8T1I" frameborder="0">
 
 !SLIDE
 
-### ping pong - a sports movie about old age
+# where to play?
 
-<iframe src="http://player.vimeo.com/video/14832158?title=0&amp;byline=0&amp;portrait=0"
-width="400" height="300" frameborder="0"/>
+[http://www.berlin-tischtennis.de](http://www.berlin-tischtennis.de/)
+
+<iframe id="btn" src="http://www.berlin-tischtennis.de/" scrolling="auto">
+</iframe>
+
 !SLIDE
 
 # ping pong in berlin
 
 <iframe class="youtube-player" type="text/html" width="640" height="385"
 src="http://www.youtube.com/embed/PDrYMtJtErI" frameborder="0">
-</iframe>
-
-!SLIDE
-
-# where to play?
-
-[http://www.berlin-tischtennis.de](http://www.berlin-tischtennis.de/)
-
-<iframe id="btn" src="http://www.berlin-tischtennis.de/" scrolling="auto">
 </iframe>
 
 !SLIDE
@@ -227,5 +226,13 @@ Glogauerstrasse 16
 
 <iframe
 src="https://docs.google.com/a/soundcloud.com/document/pub?id=1XRBs2R8Jr1bAzE1gO3N_rUYrygs-LHptqQ3J64fKEFw&amp;embedded=true"></iframe>
+
+!SLIDE
+
+### ping pong - a sports movie about old age
+
+<iframe src="http://player.vimeo.com/video/14832158?title=0&amp;byline=0&amp;portrait=0"
+width="400" height="300" frameborder="0">
+</iframe>
 
 
