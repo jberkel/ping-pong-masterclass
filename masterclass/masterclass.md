@@ -7,7 +7,7 @@
 
 !SLIDE
 
-# History
+# In the olden days (ca. 1880)
 
 !SLIDE
 
@@ -34,12 +34,6 @@ John Jaques, London 1891
 !SLIDE
 
 # lots of different names...
-
-!SLIDE
-
-# Parlour Tennis
-
-![](masterclass/dandy.jpg)
 
 !SLIDE
 
