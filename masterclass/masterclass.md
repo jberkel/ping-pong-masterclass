@@ -7,6 +7,10 @@
 
 !SLIDE
 
+# History
+
+!SLIDE
+
 # Parlour Games
 
 ![](masterclass/parlour_games.gif)
@@ -47,6 +51,8 @@ John Jaques, London 1891
 
 # Whiff Waff ?
 
+![](masterclass/whiff.jpg)
+
 !SLIDE
 
 # Pom-Pom ?
@@ -65,10 +71,21 @@ John Jaques, London 1891
 
 # 1900: rubber / cork => celluloid
 
-## "perfect bounce"
 
-![](masterclass/old-ball.png)
-![](masterclass/ping-pong-ball.jpg)
+![](masterclass/old-ball.jpg)
+![](masterclass/cellu.jpg)
+
+!SLIDE
+
+# "perfect bounce"
+
+<object height="81" width="100%"> <param name="movie"
+value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F22338118%3Fsecret_token%3Ds-8D5Sk&secret_url=true"></param>
+<param name="allowscriptaccess" value="always"></param> <embed
+allowscriptaccess="always" height="81"
+src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F22338118%3Fsecret_token%3Ds-8D5Sk&secret_url=true"
+type="application/x-shockwave-flash" width="100%"></embed> 
+</object>
 
 !SLIDE
 
@@ -99,6 +116,7 @@ src="http://www.youtube.com/embed/MTgSRY0zEww" frameborder="0">
 # 1902: First rules
 
 ![](masterclass/rules.jpg)
+![](masterclass/rules_2.jpg)
 
 !SLIDE
 
@@ -123,11 +141,29 @@ src="http://www.youtube.com/embed/MTgSRY0zEww" frameborder="0">
 
 # 20s - 50s: classic hard bat era
 
-![](masterclass/hard_bat.jpg)
+![](masterclass/barnaoriginal1.jpg)
+![](masterclass/bergmannbat.jpg)
 
 !SLIDE
 
 # 50s - 70s: sponge bats
+
+![](masterclass/satoh.jpg)
+1952
+![](masterclass/amourwaffle.jpg)
+
+!SLIDE
+
+# Anything goes
+
+![](masterclass/leach2.jpg)
+c.1954
+
+!SLIDE
+
+# More recent
+
+![](masterclass/alser.jpg)
 
 !SLIDE
 
@@ -150,7 +186,7 @@ src="http://www.youtube.com/embed/MTgSRY0zEww" frameborder="0">
 
 !SLIDE
 
-# important: service
+# important: serving
 
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/kmQDjFfxrGM#t=1m02s" frameborder="0">
 </iframe>
@@ -214,7 +250,7 @@ Glogauerstrasse 16
 
 !SLIDE
 
-# or at REBASE
+# or at REBASE :)
 
 ![](masterclass/rebase.jpg)
 
@@ -234,5 +270,12 @@ src="https://docs.google.com/a/soundcloud.com/document/pub?id=1XRBs2R8Jr1bAzE1gO
 <iframe src="http://player.vimeo.com/video/14832158?title=0&amp;byline=0&amp;portrait=0"
 width="400" height="300" frameborder="0">
 </iframe>
+
+!SLIDE
+
+<iframe class="youtube-player" type="text/html" width="640" height="385"
+src="http://www.youtube.com/embed/M2vljkseCNg" frameborder="0">
+</iframe>
+
 
 
