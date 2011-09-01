@@ -7,6 +7,10 @@
 
 !SLIDE
 
+# I'm not going to show you any tricks...sorry :)
+
+!SLIDE
+
 # In the olden days (ca. 1880)
 
 !SLIDE
@@ -243,19 +247,19 @@ src="http://www.youtube.com/embed/LPkUvfL8T1I" frameborder="0">
 
 !SLIDE
 
+# ping pong in berlin
+
+<iframe class="youtube-player" type="text/html" width="640" height="385"
+src="http://www.youtube.com/embed/PDrYMtJtErI" frameborder="0">
+</iframe>
+
+!SLIDE
+
 # where to play?
 
 [http://www.berlin-tischtennis.de](http://www.berlin-tischtennis.de/)
 
 <iframe id="btn" src="http://www.berlin-tischtennis.de/" scrolling="auto">
-</iframe>
-
-!SLIDE
-
-# ping pong in berlin
-
-<iframe class="youtube-player" type="text/html" width="640" height="385"
-src="http://www.youtube.com/embed/PDrYMtJtErI" frameborder="0">
 </iframe>
 
 !SLIDE
@@ -278,7 +282,7 @@ Glogauerstrasse 16
 
 !SLIDE
 
-# or at REBASE :)
+# or at ReBasement :)
 
 ![](masterclass/rebase.jpg)
 
